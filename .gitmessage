@@ -1,0 +1,11 @@
+# Escribe el título de tu commit aquí (máx. 50 caracteres)
+
+#Escribe una descripción más detallada del commit aquí.
+
+#Explica el porqué de los cambios, no solo el qué.
+#Usa guiones o asteriscos para viñetas si es necesario.
+*Cambio 1
+*Cambio 2
+
+# Si usas un sistema de seguimiento de incidencias, añade la referencia al final.
+# Ref: #123
